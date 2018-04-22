@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CookBaking</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="appwidget_text">CookBaking</string>
+    <string name="configure">Configure</string>
+    <string name="add_widget">Add widget</string>
+    <string name="try_again">Reconnect</string>
+
+</resources>
